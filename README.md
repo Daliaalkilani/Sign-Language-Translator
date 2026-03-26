@@ -43,7 +43,7 @@ pip install customtkinter pillow requests SpeechRecognition opencv-python mediap
 ```
 
 ---
-##🚀 How to Use
+## 🚀 How to Use
 Run the program:
 python main.py
 Text/Speech → Sign
@@ -62,7 +62,7 @@ Toggle hand using Use Left/Right Hand button.
 
 ---
 
-##💡 Notes
+## 💡 Notes
 Audio is cached in audio_cache/ for faster playback.
 Left-hand recognition mirrors coordinates for accuracy.
 Minimum interval prevents repeated audio output.
