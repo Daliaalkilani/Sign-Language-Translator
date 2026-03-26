@@ -55,6 +55,7 @@ See how typed or spoken text is converted to animated sign GIFs instantly.
 ![Sign to Speech Screenshot](images/sign_to_speech.png)
 
 Real-time hand sign recognition shows the corresponding Arabic text and speaks it aloud.
+---
 ## 🚀 How to Use
 ---
 
