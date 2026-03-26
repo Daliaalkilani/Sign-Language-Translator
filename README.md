@@ -48,10 +48,12 @@ pip install customtkinter pillow requests SpeechRecognition opencv-python mediap
 ---
 ### Voice → Sign
 ![Text to Sign Screenshot](images/voice_to_sign.png)
+
 See how typed or spoken text is converted to animated sign GIFs instantly.
 
 ### Sign → Speech
 ![Sign to Speech Screenshot](images/sign_to_speech.png)
+
 Real-time hand sign recognition shows the corresponding Arabic text and speaks it aloud.
 ## 🚀 How to Use
 ---
