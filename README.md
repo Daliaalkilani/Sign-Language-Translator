@@ -45,11 +45,11 @@ pip install customtkinter pillow requests SpeechRecognition opencv-python mediap
 
 ## 📸 Screenshots
 
-### Text → Sign
-![Text to Sign Screenshot](path/to/text_to_sign.png)
+### voice → Sign
+![Text to Sign Screenshot](images/voice_to_sign.png)
 
 ### Sign → Speech
-![Sign to Speech Screenshot](path/to/sign_to_speech.png)
+![Sign to Speech Screenshot](images/sign_to_speech.png)
 
 
 ---
