@@ -91,4 +91,7 @@ Real-time hand sign recognition shows the corresponding Arabic text and speaks i
 - Expand dataset with more words and phrases 📚  
 - Implement deep learning models for higher accuracy 🔥  
 - Add a **GUI interface** for interactive feedback 🖥  
-- Support multiple hands and gestures simultaneously ✌️  
+- Support multiple hands and gestures simultaneously ✌️
+
+---
+Dalia alkelani && Rawan hbhab
