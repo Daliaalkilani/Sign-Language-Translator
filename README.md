@@ -94,4 +94,3 @@ Real-time hand sign recognition shows the corresponding Arabic text and speaks i
 - Support multiple hands and gestures simultaneously ✌️
 
 ---
-Dalia alkelani && Rawan hbhab
